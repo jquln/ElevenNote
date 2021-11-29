@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebAPI", "Eleven
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Data", "ElevenNote.Data\ElevenNote.Data.csproj", "{E04FB857-4B24-4616-A08E-7AC9B32EA02E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNot.Models", "ElevenNot.Models\ElevenNot.Models.csproj", "{66A3B777-CA32-4F6E-BED0-DD102F934286}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "ElevenNot.Models\ElevenNote.Models.csproj", "{66A3B777-CA32-4F6E-BED0-DD102F934286}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "ElevenNote.Services\ElevenNote.Services.csproj", "{34FB44BD-6832-4ABF-91D6-CD5162701E72}"
 EndProject

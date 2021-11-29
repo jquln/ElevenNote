@@ -308,9 +308,9 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ElevenNot.Models\ElevenNot.Models.csproj">
+    <ProjectReference Include="..\ElevenNot.Models\ElevenNote.Models.csproj">
       <Project>{66a3b777-ca32-4f6e-bed0-dd102f934286}</Project>
-      <Name>ElevenNot.Models</Name>
+      <Name>ElevenNote.Models</Name>
     </ProjectReference>
     <ProjectReference Include="..\ElevenNote.Data\ElevenNote.Data.csproj">
       <Project>{e04fb857-4b24-4616-a08e-7ac9b32ea02e}</Project>
